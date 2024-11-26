@@ -18,7 +18,7 @@ Hello! I'm **devoidscript**, a passionate developer with a love for gaming and a
 
 Feel free to reach out if you want to collaborate on a project or just chat about gaming or programming!
 
-- 📫 Email: [noca.kellyjohn@gmail.com](mailto:noca.kellyjohn@gmail.com)
+- 📫 Email: [noca.kellyjohn@gmail.com]
 
 
 Thanks for visiting my profile! 🚀
