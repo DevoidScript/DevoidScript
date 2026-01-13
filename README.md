@@ -1,24 +1,27 @@
-# Welcome to My GitHub Profile!
+About Me
+I am a third-year Information Systems student with a strong foundation in full-stack development and mobile application development. I am passionate about creating efficient, user-centered solutions and continuously expanding my technical expertise through hands-on projects and self-directed learning.
 
-Hello! I'm **devoidscript**, a passionate developer with a love for gaming and a keen interest in learning new technologies. Currently, I'm diving into **React** and **Python** to expand my skill set and create exciting projects.
+Currently, I am seeking an OJT/internship opportunity where I can apply my skills in real-world scenarios, contribute to meaningful projects, and grow as a developer under the guidance of experienced professionals.
 
-## About Me
+🛠️ Technical Skills
+Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,php,mysql" />
+Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,next,react,flutter,nodejs,express" />
+Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,supabase,vscode" />
+💡 What I Bring
+Strong problem-solving abilities with a focus on understanding code functionality and logic.
 
-- 🎮 **Hobbies**: Gaming
-- 💻 **Currently Learning**: React, Python
-- 🌱 **Goals**: To build engaging applications and contribute to open-source projects.
+Experience building web and mobile applications using modern frameworks.
 
-## Skills
+Collaborative mindset with enthusiasm for learning from team environments.
 
-- **Languages**: JavaScript, Python
-- **Frameworks**: React
-- **Tools**: Git, GitHub, Visual Studio Code
+Dedication to writing clean, maintainable code.
 
-## Get in Touch
+🎮 Interests
+Beyond coding, I am an avid gamer, which fuels my interest in game development and interactive applications. I enjoy exploring how technology can create engaging user experiences.
 
-Feel free to reach out if you want to collaborate on a project or just chat about gaming or programming!
-
-- 📫 Email: [noca.kellyjohn@gmail.com]
-
-
-Thanks for visiting my profile! 🚀
+🤝 Let’s Connect
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
