@@ -1,6 +1,6 @@
 # 👋 Hi, I'm devoidscript
 
-🎓 **Third-Year Information Systems Student**  
+🎓 **Fouth Year Information Systems Student**  
 💻 **Aspiring Full-Stack & Mobile Developer**  
 🎯 **Actively seeking an OJT / Internship opportunity**
 
